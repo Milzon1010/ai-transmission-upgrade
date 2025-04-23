@@ -1,0 +1,21 @@
+# AI for Transmission Capacity Upgrade
+
+This mini AI project predicts whether a fiber or microwave link requires a capacity upgrade, based on historical network KPI data.
+
+## Features
+- Realistic dummy data for 500 links
+- KPI analysis (traffic utilization, BER, latency, jitter)
+- Machine learning model using Random Forest
+- Feature importance visualization
+
+## Files
+- `ai_transmission_upgrade.ipynb`: Main notebook
+- `link_kpi_data_dummy.csv`: Simulated dataset
+
+## Preview
+
+
+---
+
+Created by **Muhammad Milzon**  
+LinkedIn: [linkedin.com/in/milzon](https://linkedin.com/in/milzon)  
